@@ -30,8 +30,7 @@ The second array should contain different fish adjectives. The third array shoul
 Now to generate a random fish name, we'll take a random adjective from the first array, another random adjective from the second array, and a random fish type
 from the third array, then put them altogether.
 
-To get a random value from an array, you can generate a random value in between 0 and the last index in the array (`array.length - 1`). To do this, review your solution
-to [this assignment](https://github.com/ci-wdi-900/roll-the-dice).
+To get a random value from an array, you can generate a random value in between 0 and the last index in the array (`array.length - 1`).
 
 ### Step 2B: Generating a random fish weight and value
 
@@ -112,3 +111,4 @@ It's time to show the user the final result of their fishing.
 
 Underneath the while loop, write code that displays each fish in a nice way. 
 Under that, show the user how many fish they caught, the total weight of their catch, and the total value of their catch.
+
